@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "dad.dab.colony_curios.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "colony_curios.refmap.json",
+  "mixins": ["BuildGoggleMixin"],
+  "client": [],
+  "minVersion": "0.8"
+}
